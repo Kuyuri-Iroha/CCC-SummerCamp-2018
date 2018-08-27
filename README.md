@@ -27,4 +27,4 @@ void setup()
 
 
 # LICENCE
-[MIT License](LICENCE)
+[MIT License](LICENSE)
