@@ -1,3 +1,11 @@
+/**
+ * 総合コンテンツ製作サークルで作成した、オーディオビジュアライザ
+ * Author: Kuyuri Iroha (https://kuyri-iroha.com)
+ *         さいとー (@oshakusomegane)
+ *         ちゃんふり (@May_ple_T)
+ * Date: July. 27, 2018
+ */
+
 
 void initDraw()
 {

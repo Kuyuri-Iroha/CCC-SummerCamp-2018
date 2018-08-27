@@ -1,3 +1,8 @@
+/**
+ * オーディオスペクトラムを取得する
+ * 参考 : https://goo.gl/yYstJ2
+ */
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 
