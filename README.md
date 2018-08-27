@@ -1,8 +1,9 @@
 # CCC-SummerCamp-2018
 総合コンテンツ製作サークルで作成した、オーディオビジュアライザ  
+
 ![screenShot](sc/sc1.png)  
 ## 実行方法
-audioVisualizer/data ディレクトリを作成し、音声ファイルを下記の箇所に指定して実行
+audioVisualizer/data ディレクトリを作成し、音声ファイルを下記の箇所に指定して実行  
 ```processing:audioVisualizer.pde
 void setup()
 {
@@ -17,7 +18,7 @@ void setup()
 ## 共同製作メンバー
 
 - Kuyuri Iroha -[@kuyuri_iroha](https://twitter.com/kuyuri_iroha)
-- さいとー -[@oshakusomegane](https://twitter.com/oshakusomegane)
+- さいとー -[@oshakusomegane](https://twitter.com/oshakusomegane)
 - ちゃんふり -[@May_ple_T](https://twitter.com/May_ple_T)
 
 # 参考
