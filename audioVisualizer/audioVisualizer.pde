@@ -20,7 +20,7 @@ void setup()
   colorMode(HSB, 255);
   frameRate(60);
   
-  spec.init(this, "DEVIL_REQUIEM.wav");
+  spec.init(this, "ここに音声ファイル名");
 }
 Circle circle = new Circle();
 
